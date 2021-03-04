@@ -2,15 +2,15 @@
 
 安裝
 =============
-npm install
+```npm install```
 
 跑server
 =============
-node index.js
+```node index.js```
 
 跑client (可以跑很多份，現在一個client 只會連上丟訊息, 發呆)
 =============
-node client.js
+```node client.js```
 
 跑 ws
 =============
